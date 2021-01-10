@@ -1,0 +1,3 @@
+En los sistemas UNIX y estilo UNIX, como regla general, no se bloquea un archivo al abrirlo. 
+Existen diferentes mecanismos de bloqueo, algunos de los cuales pueden ser bloqueos obligatorio,
+ pero por defecto son bloqueos sugeridos.
